@@ -1,8 +1,27 @@
+Testanto nova branch
 Olá, meu nome é Marco.
-Estando alteração
+Testando alteração
+https://www.youtube.com/watch?v=kB5e-gTAl_s
 
 git init (Torna a pasta um repositório)
 git status (Retorna o status dos arquivos, alterações, commits, etc...
 git add "nomedoarquivo.extensão". (Adiciona um arquivo específico ao repertório)
 git add . (Adiciona todos os arquivos da pasta raiz para o repertório).
 git push vai subir para o servidor.
+git reflog (Vai mostrar todos os commits).
+git reset --hard xxxxx (No lugar dos x é para inserir os dígitos que aparecem na frente de cada versão, de cada commit que aparecer após o comendo reflog
+
+O comando abaixo defini o repositório no servidor.
+git remote add origin https://github.com/marcovargasdev/projeto-estudo-git
+
+Estudo Branch
+São linhas do tempo diferentes. Exemplo Ambiente de homologação e produção. 
+Depois há o comando que une as duas.
+
+git branch (Para consultar todas as Branch)
+(A que estiver verde é a que esta ativa no momento)
+
+git branch staging (Para criar uma nova branch, ele usou o nome staging, um termo em ingles que se parece com ambiente de desenvolvimento).
+
+git branch checkout xxxxxx (Para selecionar uma branch para atualizar) xxxx é o nome da branch que vamos trabalhar.
+
