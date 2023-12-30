@@ -29,3 +29,5 @@ IMPORTANTE: antes de dar merge tem que entrar na branch principal e dar o comand
 
 $ git checkout -b sistemaLogin branch master
 Esse comando cria uma nova branch com o nome sistemaLogin tendo como base os arquivos da branch master.
+
+git push (Não atualiza direto, ele vai solicitar revisão, outra pessoa pode aprovar ou não o código) Se não for aprovado a pessoa pode comentar para corrigir.
