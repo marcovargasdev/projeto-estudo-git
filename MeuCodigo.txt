@@ -1,0 +1,4 @@
+Olá, meu nome é Marco.
+
+git init (Torna a pasta um repositório)
+git status (Retorna o status dos arquivos, alterações, commits, etc...
