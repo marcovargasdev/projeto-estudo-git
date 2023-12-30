@@ -27,3 +27,5 @@ git branch checkout xxxxxx (Para selecionar uma branch para atualizar) xxxx é o
 git branch merge xxxxx (Copia os arquivos de uma branch para dentro da branch ativa). 
 IMPORTANTE: antes de dar merge tem que entrar na branch principal e dar o comando git pull (ela puxará a versão mais atual para a branch que voce está para atualizar os arquivos mais atuais para evitar conflitos de versões.
 
+$ git checkout -b sistemaLogin branch master
+Esse comando cria uma nova branch com o nome sistemaLogin tendo como base os arquivos da branch master.
