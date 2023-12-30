@@ -24,3 +24,6 @@ git branch staging (Para criar uma nova branch, ele usou o nome staging, um term
 
 git branch checkout xxxxxx (Para selecionar uma branch para atualizar) xxxx é o nome da branch que vamos trabalhar.
 
+git branch merge xxxxx (Copia os arquivos de uma branch para dentro da branch ativa). 
+IMPORTANTE: antes de dar merge tem que entrar na branch principal e dar o comando git pull (ela puxará a versão mais atual para a branch que voce está para atualizar os arquivos mais atuais para evitar conflitos de versões.
+
