@@ -1,0 +1,4 @@
+O comando abaixo defini o repositório no servidor.
+git remote add origin https://github.com/marcovargasdev/projeto-estudo-git
+
+https://www.youtube.com/watch?v=kB5e-gTAl_s
